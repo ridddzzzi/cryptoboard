@@ -1,0 +1,40 @@
+/* CSS HEX */
+ --shark: #2d2f31;
+--cornflower-blue: #7964ee;
+--whisper: #f2f0f7;
+--dull-lavender: #8d86e5;
+--cold-purple: #a49ad3;
+--heather: #b8c0d1;
+--prelude: #ccc6e4;
+--picton-blue: #349cec;
+--carrot-orange: #f2982a;
+--mandys-pink: #eebc9e;
+
+
+/* SCSS HEX */
+$shark: #2d2f31;
+$cornflower-blue: #7964ee;
+$whisper: #f2f0f7;
+$dull-lavender: #8d86e5;
+$cold-purple: #a49ad3;
+$heather: #b8c0d1;
+$prelude: #ccc6e4;
+$picton-blue: #349cec;
+$carrot-orange: #f2982a;
+$mandys-pink: #eebc9e;
+
+
+/* SCSS RGB */
+--shark: rgba(45,47,49,1);
+--cornflower-blue: rgba(121,100,238,1);
+--whisper: rgba(242,240,247,1);
+--dull-lavender: rgba(141,134,229,1);
+--cold-purple: rgba(164,154,211,1);
+--heather: rgba(184,192,209,1);
+--prelude: rgba(204,198,228,1);
+--picton-blue: rgba(52,156,236,1);
+--carrot-orange: rgba(242,152,42,1);
+--mandys-pink: rgba(238,188,158,1);
+
+7964EE
+4B2EDC

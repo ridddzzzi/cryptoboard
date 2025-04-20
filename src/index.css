@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme  {
+    /*--color-violet: rgba(136,117,254,255);*/
+    /*--color-black:rgba(136,117,254,255);*/
+
+    --color-shark: rgba(45,47,49,1);
+    --color-cornflower-blue: rgba(121,100,238,1);
+    --color-whisper: rgba(242,240,247,1);
+    --color-dull-lavender: rgba(141,134,229,1);
+    --color-cold-purple: rgba(164,154,211,1);
+    --color-heather: rgba(184,192,209,1);
+    --color-prelude: rgba(204,198,228,1);
+    --color-picton-blue: rgba(52,156,236,1);
+    --color-carrot-orange: rgba(242,152,42,1);
+    --color-mandys-pink: rgba(238,188,158,1);
+}
